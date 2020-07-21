@@ -1,3 +1,25 @@
+# Single React Chat Bot
+
+*Um simples chat bot (sem IA) feito em React.JS, que responde as perguntas previamente cadastradas.*
+
+## Modo de utulizar.:
+1) Clique no botão **"Javascript"** ou digite a palavra **"Javascript"**, e irá aparecer uma lista com links sobre o assunto.
+
+2) Digite a palavra **"hello"**, o receba a resposta **"Hi, friend."**.
+
+## Para executar.:
+1) Instale o [Node.JS](https://nodejs.org/en/download/).
+3) **Execute.:**
+
+    a) *npm install --force*
+
+    b) *npm start*
+
+    c) Abra seu navegador em: *http://localhost:3000*
+
+##### Projeto desenvolvido usando [Visual Studio Code](https://code.visualstudio.com), [Node.JS](https://nodejs.org/), e [React](https://en.reactjs.org/).
+
+# React.org
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

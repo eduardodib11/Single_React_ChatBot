@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
@@ -18,6 +18,26 @@ function App() {
         >
           Learn React
         </a>
+      </header>
+    </div>
+  );
+}
+
+export default App;*/
+
+import React from 'react';
+import Chatbot from 'react-chatbot-kit'
+import './App.css';
+
+import ActionProvider from './chatkit/ActionProvider';
+import MessageParser from './chatkit/MessageParser';
+import config from './chatkit/config';
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <Chatbot config={config} actionProvider={ActionProvider} 	    messageParser={MessageParser} />
       </header>
     </div>
   );
