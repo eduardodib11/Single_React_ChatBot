@@ -19,6 +19,8 @@
 
 ##### Projeto desenvolvido usando [Visual Studio Code](https://code.visualstudio.com), [Node.JS](https://nodejs.org/), e [React](https://en.reactjs.org/).
 
+### @ Based from [How to Build a Chatbot with React](https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-react/).
+
 # React.org
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
