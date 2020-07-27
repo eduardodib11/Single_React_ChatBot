@@ -1,7 +1,8 @@
 # Single React Chat Bot
 
 *Um simples chat bot (sem IA) feito em React.JS, que responde as perguntas previamente cadastradas.*
-
+___
+*A simple chat bot (without AI) made in React.JS, which answers previously registered questions.*
 ___
 ## Modo de utulizar.:
 1) Clique no botão **"Javascript"** ou digite a palavra **"Javascript"**, e irá aparecer uma lista com links sobre o assunto.
